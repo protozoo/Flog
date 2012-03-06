@@ -1,0 +1,5 @@
+FLOG
+
+A simple Flash log viewer for the CLI. It's a basic python script that reads the ADobe Flash log file (flashlog.txt) and prints it on screen using some fancy colors. It also allows filtering by keyword and/or log level.
+
+It assumes the log lines start with "Logger.", since this is the convention I use in my ActionScript code.
