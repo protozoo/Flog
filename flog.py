@@ -3,7 +3,7 @@
 import time, os, sys
 from optparse import OptionParser
 
-version = "0.1.1"  
+version = "0.1.2"  
 
 # Simple colors class for pretty CLI output
 # ===============================================================
